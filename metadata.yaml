@@ -16,5 +16,5 @@
 homepage: "https://epa.digital/"
 documentation: "https://github.com/epa-datos/epa-purchase-tag/blob/main/README.md"
 versions:
-  - sha: 1a4616cf9bf6433e025cda723c222694112811ad
+  - sha: 2e7e91421c36eaaf5cf6399a9970eb9780443056
     changeNotes: Initial release.
